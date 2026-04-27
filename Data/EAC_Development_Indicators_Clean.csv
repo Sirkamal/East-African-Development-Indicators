@@ -1,6 +1,6 @@
 Country Name,Country Code,Series Name,Series Code,Year,Value
 "Somalia, Fed. Rep.",SOM,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2010,
-"Somalia, Fed. Rep.",SOM,GDP per capita (current LCU),NY.GDP.PCAP.CN,2010,6854386.7666996475
+"Somalia, Fed. Rep.",SOM,GDP per capita (current LCU),NY.GDP.PCAP.CN,2010,6854386.766699648
 "Somalia, Fed. Rep.",SOM,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2010,
 "Somalia, Fed. Rep.",SOM,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2010,
 "Somalia, Fed. Rep.",SOM,"Population, total",SP.POP.TOTL,2010,12261756.0
@@ -22,7 +22,7 @@ South Sudan,SSD,"Population, total",SP.POP.TOTL,2010,9745953.0
 Rwanda,RWA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2010,-0.2461286934369337
 Rwanda,RWA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2010,346161.03837799525
 Rwanda,RWA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2010,
-Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2010,115.79334963008033
+Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2010,115.79334963008031
 Rwanda,RWA,"Population, total",SP.POP.TOTL,2010,10317553.0
 "Congo, Dem. Rep.",COD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2010,7.10000000000037
 "Congo, Dem. Rep.",COD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2010,319244.263836442
@@ -32,7 +32,7 @@ Rwanda,RWA,"Population, total",SP.POP.TOTL,2010,10317553.0
 Tanzania,TZA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2010,6.200155956474026
 Tanzania,TZA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2010,1027963.4375
 Tanzania,TZA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2010,1.314
-Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2010,108.42538195552301
+Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2010,108.425381955523
 Tanzania,TZA,"Population, total",SP.POP.TOTL,2010,44758488.0
 Burundi,BDI,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2010,6.49326591473993
 Burundi,BDI,GDP per capita (current LCU),NY.GDP.PCAP.CN,2010,266737.26201532263
@@ -47,10 +47,10 @@ Burundi,BDI,"Population, total",SP.POP.TOTL,2010,9376444.0
 Kenya,KEN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2011,14.02249130147042
 Kenya,KEN,GDP per capita (current LCU),NY.GDP.PCAP.CN,2011,97349.48131084512
 Kenya,KEN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2011,
-Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2011,110.58221065442663
+Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2011,110.58221065442665
 Kenya,KEN,"Population, total",SP.POP.TOTL,2011,42758461.0
 Uganda,UGA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2011,16.56434961745152
-Uganda,UGA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2011,1941552.0944478237
+Uganda,UGA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2011,1941552.094447824
 Uganda,UGA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2011,0.881
 Uganda,UGA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2011,113.91293046606576
 Uganda,UGA,"Population, total",SP.POP.TOTL,2011,33354543.0
@@ -67,12 +67,12 @@ Rwanda,RWA,"Population, total",SP.POP.TOTL,2011,10573733.0
 "Congo, Dem. Rep.",COD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2011,15.316515913949
 "Congo, Dem. Rep.",COD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2011,342523.63395460544
 "Congo, Dem. Rep.",COD,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2011,
-"Congo, Dem. Rep.",COD,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2011,106.03700903882769
+"Congo, Dem. Rep.",COD,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2011,106.03700903882768
 "Congo, Dem. Rep.",COD,"Population, total",SP.POP.TOTL,2011,70849311.0
 Tanzania,TZA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2011,12.6909694699162
 Tanzania,TZA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2011,1207622.5
 Tanzania,TZA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2011,3.474
-Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2011,112.89755952698033
+Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2011,112.89755952698032
 Tanzania,TZA,"Population, total",SP.POP.TOTL,2011,46029367.0
 Burundi,BDI,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2011,9.5921660597967
 Burundi,BDI,GDP per capita (current LCU),NY.GDP.PCAP.CN,2011,290134.840807419
@@ -84,13 +84,13 @@ Burundi,BDI,"Population, total",SP.POP.TOTL,2011,9717978.0
 "Somalia, Fed. Rep.",SOM,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2012,
 "Somalia, Fed. Rep.",SOM,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2012,149.46884600325654
 "Somalia, Fed. Rep.",SOM,"Population, total",SP.POP.TOTL,2012,12461160.0
-Kenya,KEN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2012,9.377770035475983
+Kenya,KEN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2012,9.377770035475985
 Kenya,KEN,GDP per capita (current LCU),NY.GDP.PCAP.CN,2012,108620.99179364488
 Kenya,KEN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2012,
-Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2012,109.66625838989879
+Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2012,109.6662583898988
 Kenya,KEN,"Population, total",SP.POP.TOTL,2012,43888303.0
 Uganda,UGA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2012,12.67903772246589
-Uganda,UGA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2012,2033500.2480383073
+Uganda,UGA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2012,2033500.2480383075
 Uganda,UGA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2012,3.551
 Uganda,UGA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2012,111.4244274518408
 Uganda,UGA,"Population, total",SP.POP.TOTL,2012,34337438.0
@@ -105,7 +105,7 @@ Rwanda,RWA,"Unemployment, total (% of total labor force) (national estimate)",SL
 Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2012,116.55230669460508
 Rwanda,RWA,"Population, total",SP.POP.TOTL,2012,10829901.0
 "Congo, Dem. Rep.",COD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2012,9.72182806273364
-"Congo, Dem. Rep.",COD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2012,377036.48457084305
+"Congo, Dem. Rep.",COD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2012,377036.4845708431
 "Congo, Dem. Rep.",COD,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2012,4.485
 "Congo, Dem. Rep.",COD,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2012,106.58305989235348
 "Congo, Dem. Rep.",COD,"Population, total",SP.POP.TOTL,2012,73254618.0
@@ -125,14 +125,14 @@ Burundi,BDI,"Population, total",SP.POP.TOTL,2012,10071028.0
 "Somalia, Fed. Rep.",SOM,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2013,146.10526128044194
 "Somalia, Fed. Rep.",SOM,"Population, total",SP.POP.TOTL,2013,12869594.0
 Kenya,KEN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,5.717493570377329
-Kenya,KEN,GDP per capita (current LCU),NY.GDP.PCAP.CN,2013,118064.03350707989
+Kenya,KEN,GDP per capita (current LCU),NY.GDP.PCAP.CN,2013,118064.03350707988
 Kenya,KEN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2013,
-Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2013,110.74455662827447
+Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2013,110.74455662827448
 Kenya,KEN,"Population, total",SP.POP.TOTL,2013,44986791.0
 Uganda,UGA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,4.905208756945568
 Uganda,UGA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2013,2120272.335075471
 Uganda,UGA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2013,1.914
-Uganda,UGA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2013,111.62871830747491
+Uganda,UGA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2013,111.62871830747493
 Uganda,UGA,"Population, total",SP.POP.TOTL,2013,35337042.0
 South Sudan,SSD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,-0.0580909784225664
 South Sudan,SSD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2013,4868.0588289290745
@@ -140,7 +140,7 @@ South Sudan,SSD,"Unemployment, total (% of total labor force) (national estimate
 South Sudan,SSD,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2013,131.28016234921128
 South Sudan,SSD,"Population, total",SP.POP.TOTL,2013,11166275.0
 Rwanda,RWA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,5.924268679848535
-Rwanda,RWA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2013,455829.35863319796
+Rwanda,RWA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2013,455829.358633198
 Rwanda,RWA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2013,
 Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2013,115.70842082238065
 Rwanda,RWA,"Population, total",SP.POP.TOTL,2013,11093340.0
@@ -152,7 +152,7 @@ Rwanda,RWA,"Population, total",SP.POP.TOTL,2013,11093340.0
 Tanzania,TZA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,7.870723645739588
 Tanzania,TZA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2013,1539605.125
 Tanzania,TZA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2013,2.935
-Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2013,114.44122301374631
+Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2013,114.44122301374632
 Tanzania,TZA,"Population, total",SP.POP.TOTL,2013,48824128.0
 Burundi,BDI,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2013,7.93795807492417
 Burundi,BDI,GDP per capita (current LCU),NY.GDP.PCAP.CN,2013,365204.949239612
@@ -165,9 +165,9 @@ Burundi,BDI,"Population, total",SP.POP.TOTL,2013,10439341.0
 "Somalia, Fed. Rep.",SOM,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2014,143.37525402290032
 "Somalia, Fed. Rep.",SOM,"Population, total",SP.POP.TOTL,2014,13339491.0
 Kenya,KEN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,6.878154992759489
-Kenya,KEN,GDP per capita (current LCU),NY.GDP.PCAP.CN,2014,130372.36186316867
+Kenya,KEN,GDP per capita (current LCU),NY.GDP.PCAP.CN,2014,130372.36186316868
 Kenya,KEN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2014,
-Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2014,112.76126009458953
+Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2014,112.76126009458952
 Kenya,KEN,"Population, total",SP.POP.TOTL,2014,46051440.0
 Uganda,UGA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,3.075706689586414
 Uganda,UGA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2014,2274213.539659352
@@ -182,7 +182,7 @@ South Sudan,SSD,"Population, total",SP.POP.TOTL,2014,11235073.0
 Rwanda,RWA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,2.354490528203584
 Rwanda,RWA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2014,494738.4158675808
 Rwanda,RWA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2014,1.169
-Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2014,116.16541053243739
+Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2014,116.1654105324374
 Rwanda,RWA,"Population, total",SP.POP.TOTL,2014,11364757.0
 "Congo, Dem. Rep.",COD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,1.24303889760802
 "Congo, Dem. Rep.",COD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2014,452598.44789198897
@@ -192,7 +192,7 @@ Rwanda,RWA,"Population, total",SP.POP.TOTL,2014,11364757.0
 Tanzania,TZA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,6.131614329880117
 Tanzania,TZA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2014,1690098.375
 Tanzania,TZA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2014,2.125
-Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2014,113.07189517843437
+Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2014,113.07189517843436
 Tanzania,TZA,"Population, total",SP.POP.TOTL,2014,50351512.0
 Burundi,BDI,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2014,4.40535234185293
 Burundi,BDI,GDP per capita (current LCU),NY.GDP.PCAP.CN,2014,387513.8255067115
@@ -207,7 +207,7 @@ Burundi,BDI,"Population, total",SP.POP.TOTL,2014,10799785.0
 Kenya,KEN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,6.582154292847786
 Kenya,KEN,GDP per capita (current LCU),NY.GDP.PCAP.CN,2015,146199.45844131964
 Kenya,KEN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2015,
-Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2015,110.34683614946843
+Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2015,110.34683614946844
 Kenya,KEN,"Population, total",SP.POP.TOTL,2015,47088526.0
 Uganda,UGA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,5.589686062517254
 Uganda,UGA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2015,2440143.3329800298
@@ -215,14 +215,14 @@ Uganda,UGA,"Unemployment, total (% of total labor force) (national estimate)",SL
 Uganda,UGA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2015,109.56511261833283
 Uganda,UGA,"Population, total",SP.POP.TOTL,2015,37531446.0
 South Sudan,SSD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,52.76633041921427
-South Sudan,SSD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2015,3893.0664886737964
+South Sudan,SSD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2015,3893.066488673797
 South Sudan,SSD,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2015,
 South Sudan,SSD,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2015,92.24865039230468
 South Sudan,SSD,"Population, total",SP.POP.TOTL,2015,11107561.0
 Rwanda,RWA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,2.528502841924209
 Rwanda,RWA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2015,528375.9278118203
 Rwanda,RWA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2015,
-Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2015,118.73840194561305
+Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2015,118.73840194561303
 Rwanda,RWA,"Population, total",SP.POP.TOTL,2015,11640022.0
 "Congo, Dem. Rep.",COD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2015,0.74419899478147
 "Congo, Dem. Rep.",COD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2015,459128.005435048
@@ -265,14 +265,14 @@ Rwanda,RWA,"Unemployment, total (% of total labor force) (national estimate)",SL
 Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2016,118.6413007944115
 Rwanda,RWA,"Population, total",SP.POP.TOTL,2016,11919183.0
 "Congo, Dem. Rep.",COD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,2.88585107289988
-"Congo, Dem. Rep.",COD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2016,464501.88403947453
+"Congo, Dem. Rep.",COD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2016,464501.8840394745
 "Congo, Dem. Rep.",COD,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2016,5.006
-"Congo, Dem. Rep.",COD,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2016,105.76357789707171
+"Congo, Dem. Rep.",COD,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2016,105.76357789707173
 "Congo, Dem. Rep.",COD,"Population, total",SP.POP.TOTL,2016,83956415.0
 Tanzania,TZA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,5.174766293014932
 Tanzania,TZA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2016,2074770.125
 Tanzania,TZA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2016,
-Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2016,101.16713693508561
+Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2016,101.1671369350856
 Tanzania,TZA,"Population, total",SP.POP.TOTL,2016,53824013.0
 Burundi,BDI,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2016,5.55768961400965
 Burundi,BDI,GDP per capita (current LCU),NY.GDP.PCAP.CN,2016,431357.6348168607
@@ -302,7 +302,7 @@ South Sudan,SSD,"Population, total",SP.POP.TOTL,2017,10259154.0
 Rwanda,RWA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,8.27953672260832
 Rwanda,RWA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2017,630568.459727292
 Rwanda,RWA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2017,11.875
-Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2017,112.61850566443061
+Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2017,112.6185056644306
 Rwanda,RWA,"Population, total",SP.POP.TOTL,2017,12202060.0
 "Congo, Dem. Rep.",COD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2017,
 "Congo, Dem. Rep.",COD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2017,631241.0972226876
@@ -327,12 +327,12 @@ Burundi,BDI,"Population, total",SP.POP.TOTL,2017,11506762.0
 Kenya,KEN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,4.689806467763299
 Kenya,KEN,GDP per capita (current LCU),NY.GDP.PCAP.CN,2018,186035.5546875067
 Kenya,KEN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2018,
-Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2018,108.82758350448225
+Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2018,108.82758350448223
 Kenya,KEN,"Population, total",SP.POP.TOTL,2018,50207107.0
 Uganda,UGA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,2.616011909522744
 Uganda,UGA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2018,2898649.5532833207
 Uganda,UGA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2018,
-Uganda,UGA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2018,105.26725115055045
+Uganda,UGA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2018,105.26725115055044
 Uganda,UGA,"Population, total",SP.POP.TOTL,2018,41565831.0
 South Sudan,SSD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,83.50152949219998
 South Sudan,SSD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2018,
@@ -342,7 +342,7 @@ South Sudan,SSD,"Population, total",SP.POP.TOTL,2018,10122977.0
 Rwanda,RWA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,-0.3112101603906995
 Rwanda,RWA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2018,664569.086056722
 Rwanda,RWA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2018,10.759
-Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2018,113.56810439672027
+Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2018,113.56810439672029
 Rwanda,RWA,"Population, total",SP.POP.TOTL,2018,12487996.0
 "Congo, Dem. Rep.",COD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2018,
 "Congo, Dem. Rep.",COD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2018,840742.3976278602
@@ -382,14 +382,14 @@ South Sudan,SSD,"Population, total",SP.POP.TOTL,2019,10423384.0
 Rwanda,RWA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,3.347876550376479
 Rwanda,RWA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2019,728520.149821898
 Rwanda,RWA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2019,11.236
-Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2019,114.32477578578425
+Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2019,114.32477578578424
 Rwanda,RWA,"Population, total",SP.POP.TOTL,2019,12776103.0
 "Congo, Dem. Rep.",COD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,
 "Congo, Dem. Rep.",COD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2019,830478.010467464
 "Congo, Dem. Rep.",COD,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2019,
-"Congo, Dem. Rep.",COD,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2019,103.98289398845439
+"Congo, Dem. Rep.",COD,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2019,103.9828939884544
 "Congo, Dem. Rep.",COD,"Population, total",SP.POP.TOTL,2019,92947442.0
-Tanzania,TZA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,3.4642805799902052
+Tanzania,TZA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2019,3.464280579990205
 Tanzania,TZA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2019,2433103.0
 Tanzania,TZA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2019,
 Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2019,106.16799902970592
@@ -407,7 +407,7 @@ Burundi,BDI,"Population, total",SP.POP.TOTL,2019,12255336.0
 Kenya,KEN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,5.40516207933392
 Kenya,KEN,GDP per capita (current LCU),NY.GDP.PCAP.CN,2020,205201.39921352552
 Kenya,KEN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2020,
-Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2020,108.56861411078043
+Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2020,108.56861411078044
 Kenya,KEN,"Population, total",SP.POP.TOTL,2020,52217334.0
 Uganda,UGA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,3.313322895445018
 Uganda,UGA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2020,3142105.1242373786
@@ -427,7 +427,7 @@ Rwanda,RWA,"Population, total",SP.POP.TOTL,2020,13065837.0
 "Congo, Dem. Rep.",COD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,
 "Congo, Dem. Rep.",COD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2020,900433.1577556654
 "Congo, Dem. Rep.",COD,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2020,1.466
-"Congo, Dem. Rep.",COD,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2020,101.33744710612777
+"Congo, Dem. Rep.",COD,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2020,101.33744710612775
 "Congo, Dem. Rep.",COD,"Population, total",SP.POP.TOTL,2020,95989998.0
 Tanzania,TZA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2020,3.290290627983255
 Tanzania,TZA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2020,2563514.0
@@ -445,14 +445,14 @@ Burundi,BDI,"Population, total",SP.POP.TOTL,2020,12617036.0
 "Somalia, Fed. Rep.",SOM,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2021,146.78899082568807
 "Somalia, Fed. Rep.",SOM,"Population, total",SP.POP.TOTL,2021,17271431.0
 Kenya,KEN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,6.107936036591763
-Kenya,KEN,GDP per capita (current LCU),NY.GDP.PCAP.CN,2021,226002.45182346526
+Kenya,KEN,GDP per capita (current LCU),NY.GDP.PCAP.CN,2021,226002.4518234653
 Kenya,KEN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2021,5.585
 Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2021,108.03425470386514
 Kenya,KEN,"Population, total",SP.POP.TOTL,2021,53219166.0
 Uganda,UGA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,2.204572047574139
 Uganda,UGA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2021,3230390.837876732
 Uganda,UGA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2021,3.416
-Uganda,UGA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2021,106.14267322262405
+Uganda,UGA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2021,106.14267322262404
 Uganda,UGA,"Population, total",SP.POP.TOTL,2021,45910930.0
 South Sudan,SSD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2021,10.51671582943585
 South Sudan,SSD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2021,
@@ -492,7 +492,7 @@ Kenya,KEN,"Population, total",SP.POP.TOTL,2022,54252461.0
 Uganda,UGA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,7.195788859758103
 Uganda,UGA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2022,3439877.2827429343
 Uganda,UGA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2022,
-Uganda,UGA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2022,104.92444152793561
+Uganda,UGA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2022,104.9244415279356
 Uganda,UGA,"Population, total",SP.POP.TOTL,2022,47312719.0
 South Sudan,SSD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,-6.687320942126679
 South Sudan,SSD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2022,
@@ -512,7 +512,7 @@ Rwanda,RWA,"Population, total",SP.POP.TOTL,2022,13651030.0
 Tanzania,TZA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,4.350272042691012
 Tanzania,TZA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2022,2780960.75
 Tanzania,TZA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2022,
-Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2022,104.23325305596343
+Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2022,104.23325305596344
 Tanzania,TZA,"Population, total",SP.POP.TOTL,2022,64711821.0
 Burundi,BDI,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2022,18.8008786664944
 Burundi,BDI,GDP per capita (current LCU),NY.GDP.PCAP.CN,2022,723259.886759116
@@ -540,9 +540,9 @@ South Sudan,SSD,"Unemployment, total (% of total labor force) (national estimate
 South Sudan,SSD,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2023,
 South Sudan,SSD,"Population, total",SP.POP.TOTL,2023,11483374.0
 Rwanda,RWA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,19.78954674646699
-Rwanda,RWA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2023,1191461.3453279599
+Rwanda,RWA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2023,1191461.34532796
 Rwanda,RWA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2023,12.352
-Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2023,114.40795469607315
+Rwanda,RWA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2023,114.40795469607316
 Rwanda,RWA,"Population, total",SP.POP.TOTL,2023,13954471.0
 "Congo, Dem. Rep.",COD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,
 "Congo, Dem. Rep.",COD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2023,1613684.9811036952
@@ -552,7 +552,7 @@ Rwanda,RWA,"Population, total",SP.POP.TOTL,2023,13954471.0
 Tanzania,TZA,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,3.799232913849163
 Tanzania,TZA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2023,2916849.5
 Tanzania,TZA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2023,
-Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2023,103.88141917752169
+Tanzania,TZA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2023,103.88141917752168
 Tanzania,TZA,"Population, total",SP.POP.TOTL,2023,66617606.0
 Burundi,BDI,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2023,26.9414835762453
 Burundi,BDI,GDP per capita (current LCU),NY.GDP.PCAP.CN,2023,864716.9087940861
@@ -565,7 +565,7 @@ Burundi,BDI,"Population, total",SP.POP.TOTL,2023,13689450.0
 "Somalia, Fed. Rep.",SOM,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2024,167.9034010194702
 "Somalia, Fed. Rep.",SOM,"Population, total",SP.POP.TOTL,2024,19009151.0
 Kenya,KEN,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,4.489788542434479
-Kenya,KEN,GDP per capita (current LCU),NY.GDP.PCAP.CN,2024,287500.11695296277
+Kenya,KEN,GDP per capita (current LCU),NY.GDP.PCAP.CN,2024,287500.1169529628
 Kenya,KEN,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2024,
 Kenya,KEN,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2024,105.55667800221369
 Kenya,KEN,"Population, total",SP.POP.TOTL,2024,56432944.0
@@ -574,7 +574,7 @@ Uganda,UGA,GDP per capita (current LCU),NY.GDP.PCAP.CN,2024,4072925.9926003935
 Uganda,UGA,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2024,
 Uganda,UGA,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2024,98.49210725486648
 Uganda,UGA,"Population, total",SP.POP.TOTL,2024,50015092.0
-South Sudan,SSD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,91.44082207690455
+South Sudan,SSD,"Inflation, consumer prices (annual %)",FP.CPI.TOTL.ZG,2024,91.44082207690457
 South Sudan,SSD,GDP per capita (current LCU),NY.GDP.PCAP.CN,2024,
 South Sudan,SSD,"Unemployment, total (% of total labor force) (national estimate)",SL.UEM.TOTL.NE.ZS,2024,
 South Sudan,SSD,Gross national expenditure (% of GDP),NE.DAB.TOTL.ZS,2024,
