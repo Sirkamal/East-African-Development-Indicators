@@ -52,6 +52,16 @@ with conflict disruption and oil sector volatility.
 
 Full cleaning documentation is in the notebook.
 
+## SQL Findings
+Five SQL queries answering real policy questions using the cleaned 
+EAC dataset. Covers SELECT, JOIN, GROUP BY, HAVING, window functions 
+(RANK, LAG), and Python-SQL integration via sqlite3.
+
+Key findings:
+- Somalia ranks 1st in gross national expenditure every year 2012–2024
+- South Sudan experienced 380% inflation in 2016 with no GDP data available
+- Unemployment data is unreliable across all EAC countries — no country 
+  has complete coverage
 ---
 
 ## Repository Structure
