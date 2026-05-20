@@ -62,6 +62,22 @@ Key findings:
 - South Sudan experienced 380% inflation in 2016 with no GDP data available
 - Unemployment data is unreliable across all EAC countries — no country 
   has complete coverage
+
+
+  ## Statistics for Decision Support
+
+Confidence interval simulation showing how sample size affects 
+estimation precision. Applied to all 8 EAC countries using real 
+World Bank GDP data.
+
+Key findings:
+- Somalia's wide CI reflects currency denomination, not genuine 
+  uncertainty about the economy
+- South Sudan's narrow CI is misleading — only 6 data points
+- Even Kenya's complete 15-year dataset carries significant 
+  uncertainty for precise policy planning
+- Report: When Data Lies — three cases where statistics reveals 
+  hidden uncertainty in published development data
 ---
 
 ## Repository Structure
